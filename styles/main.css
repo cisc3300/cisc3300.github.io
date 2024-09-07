@@ -48,3 +48,11 @@ h5 {
     color: #5A0414;
     font-weight: 500;
 }
+
+.week-container {
+    margin-top: 1rem;
+}
+
+.thursday-container {
+    padding: 0 .25rem .25rem .25rem;
+}
