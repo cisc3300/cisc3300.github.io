@@ -23,7 +23,7 @@ a.navbar-item:hover {
 }
 
 .due {
-    color: #E60041;
+    color: #E60041!important;
     font-weight: 500;
 }
 
