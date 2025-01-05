@@ -3,12 +3,10 @@
  */
 
 $( document ).ready(function() {
-  
-  console.log(location.pathname)
-  $("#footerContent").load("./footer.html", function () {
+  $("#footerContent").load("./footer1.html", function () {
   
   })
-  $("#navContent").load("./header.html", function () {
+  $("#navContent").load("./header1.html", function () {
     if (location.pathname === '/') {
       $( "#homepage-navbar-item" ).addClass( "is-active" );
     }
