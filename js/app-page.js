@@ -3,6 +3,7 @@
  */
 
 $( document ).ready(function() {
+  //
   $("#footerContent").load("./footer1.html", function () {
   
   })
