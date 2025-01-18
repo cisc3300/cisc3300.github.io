@@ -30,6 +30,7 @@ a.navbar-item:hover {
 
 .link {
     color: #900028;
+    font-weight: 500;
 }
 
 .link:hover {
